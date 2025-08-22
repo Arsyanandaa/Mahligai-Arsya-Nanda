@@ -66,3 +66,5 @@
 ⚡ **Fun Fact**: I love creating worlds & gameplay systems from scratch – the process is as fun as playing the game itself!  
 
 ![Mahligai Arsya Nanda](img/Linkedin%20Profile%20Header%20Mahligai%20Arsya%20Nanda.png)
+![pacman graph](https://github.com/Arsyanandaa/Arsyanandaa/blob/output/pacman-contribution-graph-dark.svg)
+
