@@ -1,14 +1,15 @@
 # 👋 Hello World! I'm **Mahligai Arsya Nanda**  
 
-🎮 *Game Developer | 3D Artist | Aspiring Machine Learning Engineer*  
+🎮 *Game Developer | 3D Artist | Game Programmer* 
 
 ---
 
 ## 🚀 About Me  
 - 🎮 Passionate about **Game Development** and building immersive experiences  
 - 🖌️ Skilled in **3D Asset Creation** with *Blender*  
-- ⚙️ Experienced with **Unreal Engine** for gameplay & systems  
+- ⚙️ Experienced with Unreal Engine for gameplay & systems  
 - 🌱 Currently learning **Fullstack Web Development**  
+- 🌐 I also enjoy **building websites** and exploring modern web frameworks  
 - 🤖 Aspiring to become a **Machine Learning Engineer** in the future  
 
 ---
@@ -29,6 +30,9 @@
   <!-- Web Dev -->
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 </p>
 
@@ -41,6 +45,7 @@
 </p>
 
 ---
+
 ## 🏆 GitHub Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Arsyanandaa&theme=radical&no-frame=true&no-bg=true&margin-w=15" />
